@@ -122,6 +122,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/thermal-engine-8974.conf:system/etc/thermal-engine-8974.conf
 
+# Note3 Advanced Settings
+PRODUCT_PACKAGES += \
+GalaxyNote3Settings
+
 # Wifi
 PRODUCT_PACKAGES += \
     libnetcmdiface \
