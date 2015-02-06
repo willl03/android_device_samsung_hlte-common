@@ -316,4 +316,7 @@
     -->
     <bool name="config_proximityCheckOnWake">true</bool>
 
+    <!-- Boolean to enable Stylus gestures -->
+    <bool name="config_stylusGestures">true</bool>
+
 </resources>
